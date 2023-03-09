@@ -28,90 +28,388 @@
   
   "Category": [
     {
-      "category_title": "Anime",
-      "category_preview": "https://zonekapp.com/AndroidStudio/Drawing/anime.png",
+      "category_title": "Chibi",
+      "category_preview": "https://raw.githubusercontent.com/skinsMap/Sakura/main/Untitled-2.png",
       "category_list": [
         {
-          "name": "One Piece",
-          "cover": "https://zonekapp.com/AndroidStudio/Drawing/one_piece_cover.png"
-        },
-        {
-          "name": "Naruto",
-          "cover": "https://zonekapp.com/AndroidStudio/Drawing/naruto_cover.png"
-        }
-      ]
-    },
-    {
-      "category_title": "Poses",
-      "category_preview": "https://zonekapp.com/AndroidStudio/Drawing/poses.png",
-      "category_list": [
-        {
-          "name": "One Piece",
-          "cover": "https://zonekapp.com/AndroidStudio/Drawing/one_piece_cover.png"
-        },
-        {
-          "name": "Naruto",
-          "cover": "https://zonekapp.com/AndroidStudio/Drawing/naruto_cover.png"
+          "name": "Chibi",
+          "cover": "https://raw.githubusercontent.com/skinsMap/Sakura/main/Untitled-3.png"
         }
       ]
     }
   ],
-  "One Piece": [
+  "Chibi": [
     {
-      "title": "San Jy",
-      "preview": "https://e7.pngegg.com/pngimages/997/382/png-clipart-vinsmoke-sanji-monkey-d-luffy-roronoa-zoro-one-piece-pirate-warriors-nami-one-piece-manga-fictional-character.png",
+      "title": "Chibi 1",
+      "preview": "https://raw.githubusercontent.com/skinsMap/Chibi-anime-manga/main/New%20Folder%20With%20Items/00dfda_00.png",
       "locked": false,
       "steps": [
-        "luffy_1",
-        "luffy_2"
+        "https://raw.githubusercontent.com/skinsMap/Chibi-anime-manga/main/New%20Folder%20With%20Items/00dfda_00.png",
+        "https://raw.githubusercontent.com/skinsMap/Chibi-anime-manga/main/New%20Folder%20With%20Items/00dfda_01.png",
+        "https://raw.githubusercontent.com/skinsMap/Chibi-anime-manga/main/New%20Folder%20With%20Items/00dfda_02.png",
+        "https://raw.githubusercontent.com/skinsMap/Chibi-anime-manga/main/New%20Folder%20With%20Items/00dfda_03.png",
+        "https://raw.githubusercontent.com/skinsMap/Chibi-anime-manga/main/New%20Folder%20With%20Items/00dfda_04.png",
+        "https://raw.githubusercontent.com/skinsMap/Chibi-anime-manga/main/New%20Folder%20With%20Items/00dfda_05.png",
+        "https://raw.githubusercontent.com/skinsMap/Chibi-anime-manga/main/New%20Folder%20With%20Items/00dfda_06.png",
+        "https://raw.githubusercontent.com/skinsMap/Chibi-anime-manga/main/New%20Folder%20With%20Items/00dfda_07.png",
+        "https://raw.githubusercontent.com/skinsMap/Chibi-anime-manga/main/New%20Folder%20With%20Items/00dfda_08.png",
+        "https://raw.githubusercontent.com/skinsMap/Chibi-anime-manga/main/New%20Folder%20With%20Items/00dfda_09.png",
+        "https://raw.githubusercontent.com/skinsMap/Chibi-anime-manga/main/New%20Folder%20With%20Items/00dfda_10.png",
+        "https://raw.githubusercontent.com/skinsMap/Chibi-anime-manga/main/New%20Folder%20With%20Items/00dfda_11.png",
+        "https://raw.githubusercontent.com/skinsMap/Chibi-anime-manga/main/New%20Folder%20With%20Items/00dfda_12.png",
+        "https://raw.githubusercontent.com/skinsMap/Chibi-anime-manga/main/New%20Folder%20With%20Items/00dfda_13.png",
+        "https://raw.githubusercontent.com/skinsMap/Chibi-anime-manga/main/New%20Folder%20With%20Items/00dfda_14.png",
+        "https://raw.githubusercontent.com/skinsMap/Chibi-anime-manga/main/New%20Folder%20With%20Items/00dfda_15.png",
+        "https://raw.githubusercontent.com/skinsMap/Chibi-anime-manga/main/New%20Folder%20With%20Items/00dfda_16.png",
+        "https://raw.githubusercontent.com/skinsMap/Chibi-anime-manga/main/New%20Folder%20With%20Items/00dfda_17.png",
+        "https://raw.githubusercontent.com/skinsMap/Chibi-anime-manga/main/New%20Folder%20With%20Items/00dfda_18.png",
+        "https://raw.githubusercontent.com/skinsMap/Chibi-anime-manga/main/New%20Folder%20With%20Items/00dfda_19.png",
+        "https://raw.githubusercontent.com/skinsMap/Chibi-anime-manga/main/New%20Folder%20With%20Items/00dfda_20.png",
+        "https://raw.githubusercontent.com/skinsMap/Chibi-anime-manga/main/New%20Folder%20With%20Items/00dfda_21.png",
+        "https://raw.githubusercontent.com/skinsMap/Chibi-anime-manga/main/New%20Folder%20With%20Items/00dfda_22.png",
+        "https://raw.githubusercontent.com/skinsMap/Chibi-anime-manga/main/New%20Folder%20With%20Items/00dfda_23.png",
+        "https://raw.githubusercontent.com/skinsMap/Chibi-anime-manga/main/New%20Folder%20With%20Items/00dfda_24.png",
+        "https://raw.githubusercontent.com/skinsMap/Chibi-anime-manga/main/New%20Folder%20With%20Items/00dfda_25.png",
+        "https://raw.githubusercontent.com/skinsMap/Chibi-anime-manga/main/New%20Folder%20With%20Items/00dfda_26.png",
+        "https://raw.githubusercontent.com/skinsMap/Chibi-anime-manga/main/New%20Folder%20With%20Items/00dfda_27.png",
+        "https://raw.githubusercontent.com/skinsMap/Chibi-anime-manga/main/New%20Folder%20With%20Items/00dfda_28.png",
+        "https://raw.githubusercontent.com/skinsMap/Chibi-anime-manga/main/New%20Folder%20With%20Items/00dfda_29.png",
+        "https://raw.githubusercontent.com/skinsMap/Chibi-anime-manga/main/New%20Folder%20With%20Items/00dfda_30.png",
+        "https://raw.githubusercontent.com/skinsMap/Chibi-anime-manga/main/New%20Folder%20With%20Items/00dfda_31.png",
+        "https://raw.githubusercontent.com/skinsMap/Chibi-anime-manga/main/New%20Folder%20With%20Items/00dfda_32.png",
+        "https://raw.githubusercontent.com/skinsMap/Chibi-anime-manga/main/New%20Folder%20With%20Items/00dfda_33.png",
+        "https://raw.githubusercontent.com/skinsMap/Chibi-anime-manga/main/New%20Folder%20With%20Items/00dfda_34.png"
       ]
     },
     {
-      "title": "Monkey D.Luffy",
-      "preview": "https://zonekapp.com/AndroidStudio/Drawing/luffy.png",
+      "title": "Chibi 2",
+      "preview": "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%202/c14d05_00.png",
       "locked": true,
       "steps": [
-        "luffy_1",
-        "luffy_2"
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%202/c14d05_01.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%202/c14d05_02.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%202/c14d05_03.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%202/c14d05_04.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%202/c14d05_05.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%202/c14d05_06.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%202/c14d05_07.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%202/c14d05_08.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%202/c14d05_09.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%202/c14d05_10.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%202/c14d05_11.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%202/c14d05_12.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%202/c14d05_13.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%202/c14d05_14.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%202/c14d05_15.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%202/c14d05_16.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%202/c14d05_17.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%202/c14d05_18.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%202/c14d05_19.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%202/c14d05_20.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%202/c14d05_21.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%202/c14d05_22.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%202/c14d05_23.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%202/c14d05_24.png"
       ]
     },
     {
-      "title": "Nami",
-      "preview": "https://zonekapp.com/AndroidStudio/Drawing/nami.png",
+      "title": "Chibi 3",
+      "preview": "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%203/b4167e_00.png",
       "locked": false,
       "steps": [
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/1.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/2.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/3.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/4.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/5.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/6.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/7.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/8.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/9.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/11.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/12.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/13.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/14.png"
-      ]
-    }
-  ],
-  "Naruto": [
-    {
-      "title": "Naruto",
-      "preview": "",
-      "steps": [
-        "nar_1",
-        "nar_2"
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%203/b4167e_01.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%203/b4167e_02.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%203/b4167e_03.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%203/b4167e_04.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%203/b4167e_05.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%203/b4167e_06.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%203/b4167e_07.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%203/b4167e_08.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%203/b4167e_09.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%203/b4167e_10.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%203/b4167e_11.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%203/b4167e_12.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%203/b4167e_13.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%203/b4167e_14.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%203/b4167e_15.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%203/b4167e_16.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%203/b4167e_17.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%203/b4167e_18.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%203/b4167e_19.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%203/b4167e_20.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%203/b4167e_21.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%203/b4167e_22.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%203/b4167e_23.png"
       ]
     },
     {
-      "title": "Kakashi Hatake",
-      "preview": "",
+      "title": "Chibi 4",
+      "preview": "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%204/b722_00.png",
+      "locked": true,
       "steps": [
-        "kak_1",
-        "kak_2"
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%204/b722_01.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%204/b722_02.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%204/b722_03.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%204/b722_04.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%204/b722_05.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%204/b722_06.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%204/b722_07.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%204/b722_08.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%204/b722_09.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%204/b722_10.png"
       ]
-    }
+    },
+    {
+      "title": "Chibi 5",
+      "preview": "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%205/ae_00.png",
+      "locked": false,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%205/ae_01.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%205/ae_02.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%205/ae_03.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%205/ae_04.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%205/ae_05.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%205/ae_06.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%205/ae_07.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%205/ae_08.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%205/ae_09.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%205/ae_10.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%205/ae_11.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%205/ae_12.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%205/ae_13.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%205/ae_14.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%205/ae_15.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%205/ae_16.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%205/ae_17.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%205/ae_18.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%205/ae_19.png"      ]
+    },
+    {
+      "title": "Chibi 6",
+      "preview": "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%206/8631d_00.png",
+      "locked": true,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%206/8631d_01.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%206/8631d_02.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%206/8631d_03.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%206/8631d_04.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%206/8631d_05.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%206/8631d_06.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%206/8631d_07.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%206/8631d_08.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%206/8631d_09.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%206/8631d_10.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%206/8631d_11.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%206/8631d_12.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%206/8631d_13.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%206/8631d_14.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%206/8631d_15.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%206/8631d_16.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%206/8631d_17.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%206/8631d_18.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%206/8631d_19.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%206/8631d_20.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%206/8631d_21.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%206/8631d_22.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%206/8631d_23.png"
+      ]
+    },
+    {
+      "title": "Chibi 7",
+      "preview": "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%207/682cd6_00.png",
+      "locked": true,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%207/682cd6_01.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%207/682cd6_02.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%207/682cd6_03.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%207/682cd6_04.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%207/682cd6_05.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%207/682cd6_06.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%207/682cd6_07.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%207/682cd6_08.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%207/682cd6_09.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%207/682cd6_10.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%207/682cd6_11.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%207/682cd6_12.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%207/682cd6_13.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%207/682cd6_14.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%207/682cd6_15.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%207/682cd6_16.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%207/682cd6_17.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%207/682cd6_18.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%207/682cd6_19.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%207/682cd6_20.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%207/682cd6_21.png"
+      ]
+    },
+    {
+      "title": "Sakura 8",
+      "preview": "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%208/94b0a_00.png",
+      "locked": false,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%208/94b0a_01.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%208/94b0a_02.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%208/94b0a_03.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%208/94b0a_04.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%208/94b0a_05.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%208/94b0a_06.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%208/94b0a_07.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%208/94b0a_08.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%208/94b0a_09.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%208/94b0a_10.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%208/94b0a_11.png"
+      ]
+    },
+    {
+      "title": "Chibi 9",
+      "preview": "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%209/60a0_00.png",
+      "locked": true,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%209/60a0_01.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%209/60a0_02.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%209/60a0_03.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%209/60a0_04.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%209/60a0_05.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%209/60a0_06.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%209/60a0_07.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%209/60a0_08.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%209/60a0_09.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%209/60a0_10.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%209/60a0_11.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%209/60a0_12.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%209/60a0_13.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%209/60a0_14.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%209/60a0_15.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%209/60a0_16.png"
+      ]
+    },
+    {
+      "title": "Chibi 10",
+      "preview": "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2010/49_00.png",
+      "locked": false,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2010/49_01.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2010/49_02.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2010/49_03.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2010/49_04.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2010/49_05.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2010/49_06.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2010/49_07.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2010/49_08.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2010/49_09.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2010/49_10.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2010/49_11.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2010/49_12.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2010/49_13.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2010/49_14.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2010/49_15.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2010/49_16.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2010/49_17.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2010/49_18.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2010/49_19.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2010/49_20.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2010/49_21.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2010/49_22.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2010/49_23.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2010/49_24.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2010/49_25.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2010/49_26.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2010/49_27.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2010/49_28.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2010/49_29.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2010/49_30.png"
+      ]
+    },
+    {
+      "title": "Chibi 11",
+      "preview": "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2011/9b1_00.png",
+      "locked": true,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2011/9b1_01.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2011/9b1_02.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2011/9b1_03.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2011/9b1_04.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2011/9b1_05.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2011/9b1_06.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2011/9b1_07.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2011/9b1_08.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2011/9b1_09.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2011/9b1_10.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2011/9b1_11.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2011/9b1_12.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2011/9b1_13.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2011/9b1_14.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2011/9b1_15.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2011/9b1_16.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2011/9b1_17.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2011/9b1_18.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2011/9b1_19.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2011/9b1_20.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2011/9b1_21.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2011/9b1_22.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2011/9b1_23.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2011/9b1_24.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2011/9b1_25.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2011/9b1_26.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2011/9b1_27.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2011/9b1_28.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2011/9b1_29.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2011/9b1_30.png"
+      ]
+    },
+    {
+      "title": "Chibi 12",
+      "preview": "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2012/8e3_00.png",
+      "locked": true,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2012/8e3_01.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2012/8e3_02.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2012/8e3_03.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2012/8e3_04.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2012/8e3_05.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2012/8e3_06.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2012/8e3_07.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2012/8e3_08.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2012/8e3_09.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2012/8e3_10.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2012/8e3_11.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2012/8e3_12.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2012/8e3_13.png"
+      ]
+    },
+    {
+      "title": "Chibi 13",
+      "preview": "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2013/8bb44a_00.png",
+      "locked": true,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2013/8bb44a_01.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2013/8bb44a_02.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2013/8bb44a_03.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2013/8bb44a_04.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2013/8bb44a_05.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2013/8bb44a_06.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2013/8bb44a_07.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2013/8bb44a_08.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2013/8bb44a_09.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2013/8bb44a_10.png"
+       ]
+     },
+    {
+      "title": "Chibi 14",
+      "preview": "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2014/8a8c86_00.png",
+      "locked": true,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2014/8a8c86_01.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2014/8a8c86_02.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2014/8a8c86_03.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2014/8a8c86_04.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2014/8a8c86_05.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2014/8a8c86_06.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2014/8a8c86_07.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2014/8a8c86_08.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2014/8a8c86_09.png",
+        "https://raw.githubusercontent.com/skinsMap/Sakura/main/New%20Folder%20With%20Items%2014/8a8c86_10.png"
+      ]   
+    }   
   ]
 }
